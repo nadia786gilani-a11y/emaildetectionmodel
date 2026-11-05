@@ -1,0 +1,12 @@
+Subject,Message,Spam/Ham
+"Congratulations! You won a prize","You have won a free gift. Claim your prize today!",Spam
+"Urgent account notification","Your account needs attention. Verify your details.",Spam
+"Free shopping voucher","Get a free shopping voucher worth 5000 rupees. Limited offer!",Spam
+"You are a lucky winner","You have been selected for a special reward.",Spam
+"Exclusive cash reward","Claim your surprise cash reward now.",Spam
+"Meeting scheduled","Our project meeting is scheduled for Monday at 10 AM.",Ham
+"College assignment reminder","Please submit your machine learning assignment by Friday.",Ham
+"Monthly electricity bill","Your electricity bill is available. Please check your account.",Ham
+"Project discussion","Can we discuss the project progress tomorrow?",Ham
+"Birthday invitation","You are invited to my birthday party this Saturday.",Ham
+
