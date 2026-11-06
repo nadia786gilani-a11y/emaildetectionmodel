@@ -1,7 +1,5 @@
 """
 Zero-Dependency Email Spam Classifier Web Application
-Requires ONLY Python Standard Library (No pip install needed!)
-Perfect for B.Tech Viva, College Lab Computers, and Offline Demos.
 """
 
 import http.server
